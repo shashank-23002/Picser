@@ -1,0 +1,57 @@
+.search-bar{
+    /* background-color:azure; */
+    /* border: 1px solid rgb(42, 71, 150);
+    border-radius: 5px; */
+    box-shadow: 0 1rem 1rem 0 rgba(53, 95, 194, 0.5),
+    0 -0.25rem 1.5rem rgb(15, 127, 161) inset,
+    0 0.75rem 0.5rem rgba(255,255,255, 0.4) inset,
+    0 0.25rem 0.5rem 0 rgb(11, 153, 189) inset;
+    border-radius: 50px;
+    padding:10px;
+    background-color:rgb(15, 127, 161);
+    width: 50%;
+    margin: auto;
+    top: 50%;
+    box-shadow: 100%;
+    /* font-weight: 500px; */
+}
+
+.label-name{
+    border-radius: 50px;
+    color: #06f3c1;
+    /* color:rgb(214, 215, 254); */
+    font-size:larger;
+    text-align: center;
+    margin-bottom:10px;
+    margin-top: 10px;
+}
+
+.search-bar form{
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    color: aqua;
+}
+
+.input-box{
+    color:#10b3e8;
+    font-size: larger;
+    margin: auto;
+    width:80%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.cards-heading{
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 4rem;
+    /* margin: auto; */
+    margin-bottom: 5%;
+    margin-left: 15%;
+    margin-right: 75%;
+    color: #10b3e8;
+    /* color: rgb(113, 185, 188); */
+    text-shadow: 2px 6px rgba(0, 0, 0, 0.1);
+
+  } 
+
