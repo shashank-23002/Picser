@@ -7,6 +7,8 @@ import './App.css'
 function App() {
     const [images, setImages] = useState([])
 
+    //JUST CHECKING ON MACBOOK AIR
+
     const handleSubmit = async (term) => {
         // console.log('You have to search for: ',term)
         const result = await searchImages(term)
